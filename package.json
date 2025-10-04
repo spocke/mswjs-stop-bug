@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "express": "^4.21.1",
-    "msw": "^2.4.11"
+    "msw": "^2.11.3"
   },
   "keywords": [],
   "author": "",
